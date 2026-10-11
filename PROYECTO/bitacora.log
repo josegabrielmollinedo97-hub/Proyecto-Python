@@ -1,0 +1,22 @@
+[2026-10-11 04:22:13] Sistema iniciado
+[2026-10-11 04:23:42] Venta: LIB002, cantidad=2, total=Q90.00
+[2026-10-11 04:24:51] Sistema cerrado correctamente
+[2026-10-11 05:06:39] Sistema iniciado
+[2026-10-11 05:07:43] Producto agregado: LIB009 - PRECALCULO
+[2026-10-11 05:13:48] Sistema iniciado
+[2026-10-11 05:15:33] Venta: LIB003, cantidad=2, total=Q240.00
+[2026-10-11 05:15:33] ALERTA de stock mínimo: LIB003, existencias=3
+[2026-10-11 05:18:55] Sistema cerrado correctamente
+[2026-10-11 05:22:56] Sistema iniciado
+[2026-10-11 05:28:29] Venta: LIB001, cantidad=2, total=Q170.00
+[2026-10-11 05:29:59] Sistema cerrado correctamente
+[2026-10-11 05:31:38] Sistema iniciado
+[2026-10-11 05:57:04] Venta: LIB005, cantidad=1, total=Q55.00
+[2026-10-11 05:57:04] ALERTA de stock mínimo: LIB005, existencias=1
+[2026-10-11 05:59:54] Sistema cerrado correctamente
+[2026-10-11 06:00:44] Sistema iniciado
+[2026-10-11 06:25:24] Venta: LIB005, cantidad=1, total=Q55.00
+[2026-10-11 06:25:24] ALERTA de stock mínimo: LIB005, existencias=1
+[2026-10-11 10:37:03] Sistema iniciado
+[2026-10-11 10:38:08] Venta: LIB005, cantidad=1, total=Q55.00
+[2026-10-11 10:38:08] ALERTA de stock mínimo: LIB005, existencias=1
