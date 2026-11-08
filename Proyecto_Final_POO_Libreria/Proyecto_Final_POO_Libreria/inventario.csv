@@ -1,0 +1,12 @@
+codigo,nombre,categoria,precio,stock
+LIB001,Cien años de soledad,Novela,85.00,10
+LIB002,El principito,Literatura,45.00,6
+LIB003,Don Quijote de la Mancha,Clasico,120.00,3
+LIB004,Matematicas basicas,Educativo,65.00,3
+LIB005,Diccionario escolar,Referencia,55.00,1
+LIB006,La ciudad y los perros,Novela,90.00,7
+LIB007,El alquimista,Novela,75.00,8
+LIB008,Historia universal,Historia,110.00,4
+LIB009,Precalculo,Matematica,150.00,10
+LIB010,Programacion en Python,Informatica,135.00,5
+LIB011,ATREYUS,Fantacia,50.00,1

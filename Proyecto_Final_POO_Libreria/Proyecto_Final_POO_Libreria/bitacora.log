@@ -1,0 +1,6 @@
+[2026-11-08 03:30:01] Sistema iniciado
+[2026-11-08 03:30:30] ERROR: could not convert string to float: ''
+[2026-11-08 03:32:17] Producto agregado: LIB011
+[2026-11-08 03:33:03] Venta de 4 unidad(es) de ATREYUS: Q200.00
+[2026-11-08 03:33:03] ALERTA: quedan 1 unidades de ATREYUS
+[2026-11-08 03:33:37] ERROR: Ya existe un producto con ese código.
